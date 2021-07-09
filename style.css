@@ -1,0 +1,456 @@
+img {
+    width: 175px;
+    margin: 15px;
+}
+html {
+    font-family: sans-serif;
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    margin-left: 48px;
+}
+.hh {
+    box-shadow: 0 0 5px;
+    padding: 30px;
+    position: relative;
+    margin-left: 10px;
+    width: 1235px;
+    background-image: linear-gradient(to right,white,#cc81fa);
+}
+a:hover {
+    color: #8E58D3;
+    font-weight: bold;
+}
+.icons {
+    width: 15px;
+}
+.a::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.a:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/14-1625064305.png");
+    display: inline;
+    opacity: 1;
+}
+.b::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.b:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/15-1625064791.png");
+    display: inline;
+    opacity: 1;
+}
+.c::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.c:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/16-1625065325.png");
+    display: inline;
+    opacity: 1;
+}
+.d::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.d:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/17-1625065530.png");
+    display: inline;
+    opacity: 1;
+}
+.e::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.e:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/18-1625065641.png");
+    display: inline;
+    opacity: 1;
+}
+.f::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.f:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/19-1625065746.png");
+    display: inline;
+    opacity: 1;
+}
+.g::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.g:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/21-1625065975.png");
+    display: inline;
+    opacity: 1;
+}
+.h::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.h:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/22-1625066079.png");
+    display: inline;
+    opacity: 1;
+}
+.i::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.i:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/23-1625066185.png");
+    display: inline;
+    opacity: 1;
+}
+.j::before {
+    display: block;
+    width: 200px;
+    height: 10px;
+    opacity: 0;
+}
+.j:hover::before {
+    content: url("https://learn.algoritmika.org/uploads/student/740714/24-1625066303.png");
+    display: inline;
+    opacity: 1;
+}
+.hl {
+    padding: 15px;
+    margin: 15px;
+
+}
+.cool {
+    margin: 15px;
+    color: grey;
+}
+.divik3 {
+    height: 325px;
+    margin: 15px;
+    box-shadow: 0 0 5px;
+    display: inline-block;
+    float: left;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.divik4 {
+    height: 325px;
+    margin: 15px;
+    box-shadow: 0 0 5px;
+    display: inline-block;
+    float: left;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.cool2 {
+    margin: 15px;
+}
+.h2 {
+    margin: 15px;
+}
+.divik5 {
+    height: 325px;
+    margin: 15px;
+    box-shadow: 0 0 5px;
+    display: inline-block;
+    float: left;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.divik6 {
+    height: 325px;
+    margin: 15px;
+    box-shadow: 0 0 5px;
+    display: inline-block;
+    float: left;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.yt {
+    position: relative;
+}
+.bb {
+    position: absolute;
+    margin-top: 400px;
+    box-shadow: 0 0 5px;
+    margin-left: 15px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.uy {
+    position: relative;
+}
+.yu {
+    position: absolute;
+    margin-top: 400px;
+    box-shadow: 0 0 5px;
+    margin-left: 345px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.po {
+    position: relative;
+}
+.op {
+    position: absolute;
+    margin-top: 400px;
+    box-shadow: 0 0 5px;
+    margin-left: 675px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.nm {
+    position: relative;
+}
+.mn {
+    position: absolute;
+    margin-top: 400px;
+    box-shadow: 0 0 5px;
+    margin-left: 1005px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.jh {
+    position: relative;
+}
+.hj {
+    position: absolute;
+    margin-top: 770px;
+    box-shadow: 0 0 5px;
+    margin-left: 15px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.lk {
+    position: relative;
+}
+.kl {
+    position: absolute;
+    margin-top: 770px;
+    box-shadow: 0 0 5px;
+    margin-left: 345px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.rt {
+    position: relative;
+}
+.tr {
+    position: absolute;
+    margin-top: 770px;
+    box-shadow: 0 0 5px;
+    margin-left: 675px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+
+}
+.fg {
+    position: relative;
+}
+.gf {
+    position: absolute;
+    margin-top: 770px;
+    box-shadow: 0 0 5px;
+    margin-left: 1005px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.oi {
+    position: relative;
+}
+.io {
+    position: absolute;
+    margin-top: 1140px;
+    box-shadow: 0 0 5px;
+    margin-left: 15px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.bn {
+    position: relative;
+}
+.nb {
+    position: absolute;
+    margin-top: 1140px;
+    box-shadow: 0 0 5px;
+    margin-left: 345px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.we {
+    position: relative;
+}
+.ew {
+    position: absolute;
+    margin-top: 1140px;
+    box-shadow: 0 0 5px;
+    margin-left: 675px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.aw {
+    position: relative;
+}
+.wa {
+    position: absolute;
+    margin-top: 1140px;
+    box-shadow: 0 0 5px;
+    margin-left: 1005px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.kr {
+    position: relative;
+}
+.rk {
+    position: absolute;
+    margin-top: 1540px;
+    box-shadow: 0 0 5px;
+    margin-left: 345px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.dg {
+    position: relative;
+}
+.gd {
+    position: absolute;
+    margin-top: 1540px;
+    box-shadow: 0 0 5px;
+    margin-left: 15px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.ho {
+    position: relative;
+}
+.oh {
+    position: absolute;
+    margin-top: 1540px;
+    box-shadow: 0 0 5px;
+    margin-left: 675px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.za {
+    position: relative;
+}
+.az {
+    position: absolute;
+    margin-top: 1540px;
+    box-shadow: 0 0 5px;
+    margin-left: 1005px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.de {
+    position: relative;
+}
+.ed {
+    position: absolute;
+    margin-top: 1940px;
+    box-shadow: 0 0 5px;
+    margin-left: 15px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.lol {
+    position: relative;
+}
+.hah {
+    position: absolute;
+    margin-top: 1940px;
+    box-shadow: 0 0 5px;
+    margin-left: 345px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.hf {
+    position: relative;
+}
+.glhf {
+    position: absolute;
+    margin-top: 1940px;
+    box-shadow: 0 0 5px;
+    margin-left: 675px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.xd {
+    position: relative;
+}
+.dx {
+    position: absolute;                       
+    margin-top: 1940px;
+    box-shadow: 0 0 5px;
+    margin-left: 1005px;
+    width: 300px;
+    background-image: linear-gradient(to bottom,white,#f6e6ff);
+}
+.krutoi {
+    width: 50px;
+    height: 50px;
+}
+.loh {
+    margin-top: 1125px;
+    margin-left: 15px;
+}
+iframe {
+    float: left;
+    margin-top: 2000px;
+    margin-left: 15px;
+}
+.pa {
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 1000px;
+}
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    float: left;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: 0 10px 10px 0;
+    padding: 6px;
+    color: #000;
+}
+.vk a:hover {background: #5d84ae; color: #fff;}
+.telegram a:hover {background: #249bd7; color: #fff;}
+.github a:hover {background: #191919; color: #fff;}
+.vk {
+    margin-left: 15px;
+}
+.telegram {
+    margin-left: 15px;
+}
+.github {
+    margin-left: 15px;
+}
